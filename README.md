@@ -24,8 +24,15 @@ Mvp functionality avaliblity of serveral search options sections for display cod
 # Hosting on Heroku 
 
 All user available see the displayed the index of the page.
-Each user show page will have a source/description/name of url / articles.
+
+Each user show page will have a 
+     source
+     description
+     name of url
+     articles.
+
 Each user will have a section of code that is shown
+
 Each  user will have a show page that also displays the number of times this api has been viewed.
 
 
