@@ -1,4 +1,5 @@
 
+![image](https://user-images.githubusercontent.com/41052077/144333074-3372381e-6cb9-4ee7-970f-d918d9188c9e.png)
 
 # Api Made Easy 
 
@@ -10,12 +11,8 @@ Api Made Easy is a web application that makes one of the tasks of programming ea
 One of the pain points of using an API is going through the documentation. API provide a tool that showcases API from source code, url links and real components to create a usable application that simplifies the process for programmers.
 
 
-# Api Made Easy Team 
-
-Michael Francois Kenneth King 
-
 # Features
-
+Get direct access to the developer who built the API for fast, unfiltered search information. 
 Features source code, url links real components
 
 Mvp functionality avaliblity of serveral search options sections for display code
@@ -50,6 +47,12 @@ Each  user will have a show page that also displays the number of times this api
 
 
 # WireFrame 
+
+![image](https://user-images.githubusercontent.com/41052077/144333156-5a1bcb12-1b8d-4d99-bc0a-12600f4c54b6.png)
+
+
+![SITEMAP](https://user-images.githubusercontent.com/41052077/144333196-a2551338-205d-4faf-8663-11515222d4c6.JPG)
+
 https://xd.adobe.com/view/276ed8fb-f923-4215-a142-aab359af54bc-723d/
 
 # Code
@@ -111,5 +114,7 @@ Testing:
 
 Jest
 
+# Api Made Easy Team 
 
+Michael Francois
 
