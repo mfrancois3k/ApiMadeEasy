@@ -2,12 +2,13 @@
 
 # Api Made Easy 
 
-Api Made Easy is a web application that makes the job of programming easier by providing the source of information on how to configure the api based on your need, by showing source, artitle and url, this remove the the guess work from the process.
-Motivation
+Api Made Easy is a web application that makes one of the tasks of programming easier by providing the source of information on how to configure the API based on their need, by showing source, artitle and url, this removes the the guess work from the process.
+
 
 # Motivation 
 
-One of the pain points of using and api is going through the docmentation. We provide a tool that showcases api from source code, url links and real components to create a usable application that simplifies the process for programmers
+One of the pain points of using an API is going through the documentation. API provide a tool that showcases API from source code, url links and real components to create a usable application that simplifies the process for programmers.
+
 
 # Api Made Easy Team 
 
@@ -93,7 +94,10 @@ axios.request(options).then(function (response) {
 
 # Post-MVP: 
 
-Add mutiple library to display api code ex React, Vue, Angular show api call for fetch call
+Add mutiple library to display api code ex React
+
+display API code such as React to import API call for axios 
+
 
 Installation npm axios npm --
 
