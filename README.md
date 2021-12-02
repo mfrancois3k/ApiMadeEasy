@@ -105,10 +105,14 @@ display API code such as React to import API call for axios
 Installation npm axios npm --
 
 # dependencies: 
+dependencies:
 axios
 
+useAnimations.js (micro animation scollmajic gsap animat popper.js
 
-axios html / css
+intro js
+
+
 
 Testing:
 
